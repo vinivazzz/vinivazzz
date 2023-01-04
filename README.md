@@ -14,7 +14,9 @@ Eu possuo conhecimento em:
 <li>JavaScript</li>
 <br>
 <a href="https://www.linkedin.com/in/vinicius-augusto-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 <br>
+
 <div align="left">
   <a href="https://github.com/vyniexec">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=vinivazzz&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
