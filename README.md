@@ -1,4 +1,4 @@
-# Meu nome é Vinicius!😀
+# Meu nome é Vinícius!😀
 <br>
 <li>Eu tenho 19 anos</li> 
 <li>Minha área de interesse é T.I (mais focado em programação front-end)👨🏽‍💻</li>
