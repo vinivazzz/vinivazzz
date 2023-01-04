@@ -1,8 +1,17 @@
-# My name is Vinicius!
+# Meu nome é Vinicius!😀
 <br>
-<li>I have 19 years old</li> 
-<li>my area of interest is T.i (programming front-end)👨🏽‍💻</li>
-<li>what do you think about taking a look at my projects?⁉</li>
+<li>Eu tenho 19 anos</li> 
+<li>Minha área de interesse é T.I (mais focado em programação front-end)👨🏽‍💻</li>
+<li>O que você acha de dar uma olhada em meus projetos?⁉</li>
+Eu possuo conhecimento em:
+<li>Boostrap4</li>
+<li>HTML5 e CSS3</li>
+<li>Wordpress (intermediário)</li>
+<li>Microsoft office</li>
+<li>Informática básica (Ensino Técnico)</li>
+<li>SQL Server</li>
+<li>Kotlin</li>
+<li>JavaScript</li>
 <br>
 
 <div align="left">
