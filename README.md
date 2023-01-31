@@ -17,7 +17,7 @@ Eu possuo conhecimento em:
 <div align="left">
   <a href="https://github.com/vyniexec">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=vinivazzz&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinivazzz&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&langs_count=7&theme=highcontrast"/>
   </div>
 
 ![cobrinha](https://github.com/vinivazzz/vinivazzz/blob/main/cobrinha.svg)
