@@ -31,6 +31,7 @@
   <img width= 6% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img width= 6% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" />
   </div>
+    <br>
 <div align="left">
   <a href="https://github.com/vinivazzz">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=vinivazzz&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
