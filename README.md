@@ -3,7 +3,7 @@
 <li>Eu tenho 19 anos</li> 
 <li>Minha área de interesse é T.I (mais focado em programação front-end)👨🏽‍💻</li>
 <li>O que você acha de dar uma olhada em meus projetos?⁉</li>
-Eu possuo conhecimento em:
+  Eu possuo conhecimento em:
 <li>Boostrap4</li>
 <li>HTML5 e CSS3</li>
 <li>Wordpress (intermediário)</li>
