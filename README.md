@@ -34,9 +34,9 @@
     <br>
 <div align="left">
   <a href="https://github.com/vinivazzz">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=vinivazzz&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=vinivazzz&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
     
-  <img width="53%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinivazzz&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinivazzz&layout=compact&langs_count=7&theme=highcontrast"/>
   </div>
   
   ##
