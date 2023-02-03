@@ -1,9 +1,9 @@
 # Meu nome é Vinícius!😀
 <a href="https://www.linkedin.com/in/vinicius-augusto-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br>
-<li>Eu tenho 19 anos</li> 
+<li>Eu tenho 20 anos</li> 
 <li>Minha área de interesse é T.I (mais focado em programação front-end)👨🏽‍💻</li>
-<li>O que você acha de dar uma olhada em meus projetos?⁉</li>
+<li>Que tal dar uma olhada em meus projetos⁉</li>
   Eu possuo conhecimento em:
 <li>Boostrap4</li>
 <li>Angular.js</li>
