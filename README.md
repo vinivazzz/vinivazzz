@@ -4,7 +4,7 @@
 <li>Eu tenho 20 anos</li> 
 <li>Minha área de interesse é T.I (mais focado em programação front-end)👨🏽‍💻</li>
 <li>Que tal dar uma olhada em meus projetos⁉</li>
-  Eu possuo conhecimento em:
+ Meus conhecimentos 👇🏽👇🏽
 <li>Boostrap4</li>
 <li>Angular.js</li>
 <li>HTML5 e CSS3</li>
